@@ -1,2 +1,2 @@
 our main motive of the project is to develop a web app which is usefull for the student lifestyle to get coaching during summer time our main motive of the project is to help the students to train and became succesfull in the future by using our app . Based on his time zone he has to set a time to get certified during that time .If he faced any problem during this process he has to contact us by contact module .This project is completely on four modules 1)about2)coaching 3)time 4)contact us 5)login page.
-![Uploading image.png…]()
+
